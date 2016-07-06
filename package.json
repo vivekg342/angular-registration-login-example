@@ -1,0 +1,21 @@
+{
+  "name": "angular-registration-login-example",
+  "version": "1.0.0",
+  "description": "angular-registration-login-example ==============================",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified and hence your path begins!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekg342/angular-registration-login-example.git"
+  },
+  "author": "Vivek",
+  "bugs": {
+    "url": "https://github.com/vivekg342/angular-registration-login-example/issues"
+  },
+  "homepage": "https://github.com/vivekg342/angular-registration-login-example#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

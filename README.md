@@ -1,6 +1,12 @@
 angular-registration-login-example
 ==============================
 
-AngularJS User Registration and Login Example
+```
+#### Install dependencies
+npm install
 
-To see a demo and further details go to http://jasonwatmore.com/post/2015/03/10/AngularJS-User-Registration-and-Login-Example.aspx
+#### To start the server
+node server.js
+
+#### Test
+npm test
